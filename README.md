@@ -42,3 +42,9 @@ curl -X POST http://127.0.0.1:5000/predict \
   "publish_hour": 14,
   "category_code": 10
 }'
+## 🧪 Yanit
+
+{
+  "predicted_views": 988228
+}
+
